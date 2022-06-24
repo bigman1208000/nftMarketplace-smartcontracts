@@ -13,11 +13,11 @@ starting from 0 and aim to go towards Hero
 ## Run this Project
  ### Fork this repository
   
-https://github.com/NaimaGhulamMuhammad/nftMarketplace-smartcontracts
+https://github.com/bigman1208000/nftMarketplace-smartcontracts
 
 ### Clone the repository
 
-1. git clone https://github.com//NaimaGhulamMuhammad/nftMarketplace-smartcontracts.git
+1. git clone https://github.com//bigman1208000/nftMarketplace-smartcontracts.git
 2. cd nftMarketplace-smartcontracts
 3. npm install
 4. npm start
@@ -26,7 +26,7 @@ https://github.com/NaimaGhulamMuhammad/nftMarketplace-smartcontracts
 
 ### Fork this repository
   
-   https://github.com/NaimaGhulamMuhammad/nftMarketplace-smartcontracts
+   https://github.com/bigman1208000/nftMarketplace-smartcontracts
    
 ### Clone the repository
 
